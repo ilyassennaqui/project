@@ -1,0 +1,6 @@
+{
+  "name": "Cooperative IKRALUM",
+  "description": "Premium Engineered Aluminium systems, custom architectural double-glazed carpentry joinery, and interactive engineering consult from Morocco's premium craft cooperative.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
